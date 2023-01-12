@@ -193,3 +193,8 @@ input[type="button"] {
   }
 
 }
+
+.no-encontrado {
+  color: #9b0202;
+  font-weight: bolder;
+}
